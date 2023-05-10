@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="/Users/benpostell/Desktop/College/Junior_Year/Spring/Data Wrangling/VAERS_DB.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="3379"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,8:mainSYMPTOMS"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="AgeCovid" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="56"/><column index="2" value="56"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="AgeGender" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="56"/><column index="2" value="56"/><column index="3" value="56"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="DATA" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="59"/><column index="2" value="67"/><column index="3" value="40"/><column index="4" value="56"/><column index="5" value="57"/><column index="6" value="60"/><column index="7" value="29"/><column index="8" value="62"/><column index="9" value="300"/><column index="10" value="39"/><column index="11" value="68"/><column index="12" value="62"/><column index="13" value="56"/><column index="14" value="61"/><column index="15" value="66"/><column index="16" value="48"/><column index="17" value="53"/><column index="18" value="52"/><column index="19" value="69"/><column index="20" value="77"/><column index="21" value="61"/><column index="22" value="300"/><column index="23" value="71"/><column index="24" value="65"/><column index="25" value="300"/><column index="26" value="300"/><column index="27" value="300"/><column index="28" value="300"/><column index="29" value="160"/><column index="30" value="73"/><column index="31" value="83"/><column index="32" value="87"/><column index="33" value="65"/><column index="34" value="77"/><column index="35" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="GenderCorrelation" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="60"/><column index="2" value="56"/><column index="3" value="56"/><column index="4" value="56"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="JustSymptoms" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="63"/><column index="2" value="636"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="JustSymptoms1" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="63"/><column index="2" value="439"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="MonthlyCases" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="63"/><column index="2" value="82"/><column index="3" value="56"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="SYMPTOMS" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="59"/><column index="2" value="300"/><column index="3" value="114"/><column index="4" value="300"/><column index="5" value="115"/><column index="6" value="247"/><column index="7" value="115"/><column index="8" value="247"/><column index="9" value="115"/><column index="10" value="246"/><column index="11" value="115"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="TypePerAge" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="3" value="232"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="VAX" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="59"/><column index="2" value="70"/><column index="3" value="208"/><column index="4" value="101"/><column index="5" value="107"/><column index="6" value="72"/><column index="7" value="59"/><column index="8" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="covid19" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="59"/><column index="2" value="63"/><column index="3" value="152"/><column index="4" value="101"/><column index="5" value="107"/><column index="6" value="72"/><column index="7" value="59"/><column index="8" value="211"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1">-- How many people who got vaccinated for covid
+SELECT count(VAERS_ID)
+FROM covid19;
+
+-- What is the most popular vaccine
+SELECT count(v.VAX_MANU) as [Vax Count], v.VAX_MANU as [Type]
+FROM DATA as d INNER JOIN VAX v ON d.VAERS_ID = v.VAERS_ID
+GROUP BY v.VAX_MANU
+ORDER BY count(v.VAX_MANU) DESC
+LIMIT 133;
+
+-- Which state had the most logged covid19 cases and average age?
+SELECT d.STATE [Location], count(c.VAERS_ID) as [ID], avg(d.AGE_YRS) as [Avg Age]
+FROM covid19 as c INNER JOIN DATA as d on c.VAERS_ID = d.VAERS_ID
+GROUP BY d.STATE
+ORDER BY count(c.VAERS_ID) DESC;</sql><sql name="SQL 15">-- What are the trends of these events over each month for the year 2022? 
+SELECT c.VAX_TYPE, count(c.VAERS_ID) as [MonthlyCases], substr(d.RECVDATE, 1,2) as [Month]
+FROM DATA as d INNER JOIN covid19 as c ON d.VAERS_ID = c.VAERS_ID
+GROUP BY c.VAX_TYPE, substr(d.RECVDATE, 1,2)
+ORDER BY substr(d.RECVDATE, 1,2);
+
+-- Top 10 ages to have covid19
+SELECT AGE_YRS as [Age], count(Vaers_ID) as [COVID19]
+FROM DATA
+GROUP BY AGE_YRS
+ORDER BY COVID19 DESC
+LIMIT 10 OFFSET 1;
+
+-- Most common type of vaccine per AGE_YRS
+SELECT d.AGE_YRS as [Age], count(v.VAX_MANU) as [Vax Count], v.VAX_MANU as [Type]
+FROM DATA as d INNER JOIN VAX v ON d.VAERS_ID = v.VAERS_ID
+WHERE d.AGE_YRS IS NOT NULL
+GROUP BY d.AGE_YRS
+ORDER BY d.AGE_YRS DESC
+LIMIT 133;
+</sql><sql name="Create View">-- What vaccine had the worst SYMPTOMS
+-- CREATE VIEW JustSymptoms1 AS
+-- SELECT v.VAX_TYPE, s.SYMPTOM1 ||' ' || s.SYMPTOM2 || ' ' || s.SYMPTOM3 || ' ' || s.SYMPTOM4 || ' ' || s.SYMPTOM5 as [Symptoms]
+-- FROM SYMPTOMS as s INNER JOIN VAX as v ON s.VAERS_ID = v.VAERS_ID
+-- WHERE Symptoms IS NOT NULL;
+
+-- CREATE VIEW AgeGender As
+--SELECT AGE_YRS as [Age], SEX, count(Vaers_ID) as [COVID19], 
+--	CASE 
+--		WHEN SEX = &quot;F&quot; THEN 0
+--		WHEN SEX = &quot;M&quot; THEN 1
+--	END AS Male,
+--	CASE 
+--		WHEN SEX = &quot;F&quot; THEN sum(COVID
+--		WHEN SEX = &quot;M&quot; THEN 0
+--	END AS Female,
+	
+--FROM DATA
+--WHERE SEX &lt;&gt; &quot;U&quot;
+--GROUP BY AGE_YRS, SEX
+--ORDER BY AGE_YRS DESC
+--LIMIT 89;
+
+-- CREATE VIEW MonthlyCases AS
+-- SELECT c.VAX_TYPE, count(c.VAERS_ID) as [MonthlyCases], substr(d.RECVDATE, 1,2) as [Month]
+-- FROM DATA as d INNER JOIN covid19 as c ON d.VAERS_ID = c.VAERS_ID
+-- GROUP BY c.VAX_TYPE, substr(d.RECVDATE, 1,2)
+-- ORDER BY substr(d.RECVDATE, 1,2) ASC;
+
+-- CREATE VIEW TypePerAge As
+-- SELECT d.AGE_YRS as [Age], count(v.VAX_MANU) as [Vax Count], v.VAX_MANU as [Type]
+-- FROM DATA as d INNER JOIN VAX v ON d.VAERS_ID = v.VAERS_ID
+-- WHERE d.AGE_YRS IS NOT NULL
+-- GROUP BY d.AGE_YRS
+-- ORDER BY d.AGE_YRS DESC
+-- LIMIT 133;
+
+-- CREATE VIEW GenderCorrelation As
+-- SELECT AgeGroup, Male, Female, (Male + Female) as Total 
+-- FROM (SELECT AgeGroup, 
+-- 	max(Case WHEN SEX = &quot;M&quot; THEN NumberOfCases END) As Male,
+-- 	max(Case WHEN SEX = &quot;F&quot; THEN NumberOfCases END) As Female
+-- FROM (SELECT count(Vaers_ID) as NumberOfCases, SEX,
+-- 	CASE
+-- 		WHEN AGE_YRS &lt; 18 THEN &quot;Young&quot;
+-- 		WHEN (AGE_YRS  &gt;= 18 and AGE_YRS &lt; 40) THEN &quot;Adult&quot;
+-- 		WHEN (AGE_YRS &gt;= 40 and AGE_YRS &lt; 70) THEN &quot;Middle_age&quot;
+-- 		WHEN AGE_YRS &gt; 70 THEN &quot;Old&quot;
+-- 	END AS AgeGroup
+-- FROM DATA
+-- WHERE SEX &lt;&gt; &quot;U&quot; AND AGE_YRS is NOT NULL
+-- GROUP BY AgeGroup, SEX
+-- ORDER BY AgeGroup DESC)
+-- GROUP BY AgeGroup)
+
+-- CREATE VIEW MonthlyCases AS
+-- SELECT c.VAX_TYPE, count(c.VAERS_ID) as [MonthlyCases], substr(d.RECVDATE, 1,2) as [Month]
+--FROM DATA as d INNER JOIN covid19 as c ON d.VAERS_ID = c.VAERS_ID
+-- GROUP BY c.VAX_TYPE, substr(d.RECVDATE, 1,2)
+-- ORDER BY substr(d.RECVDATE, 1,2) ASC;</sql><sql name="SQL 6">
+
+
+SELECT count(Vaers_ID) as NumberOfCases,
+	CASE
+		WHEN AGE_YRS &lt; 18 THEN &quot;Young&quot;
+		WHEN (AGE_YRS  &gt;= 18 and AGE_YRS &lt; 40) THEN &quot;Adult&quot;
+		WHEN (AGE_YRS &gt;= 40 and AGE_YRS &lt; 70) THEN &quot;Middle_age&quot;
+		WHEN AGE_YRS &gt; 70 THEN &quot;Old&quot;
+	END AS AgeGroup,
+	CASE 
+		WHEN SEX = &quot;M&quot; THEN count(Vaers_ID)
+	END AS Male,
+	CASE 
+		WHEN SEX = &quot;F&quot; THEN count(Vaers_ID)
+	END AS Female
+FROM DATA
+WHERE SEX &lt;&gt; &quot;U&quot; AND AGE_YRS is NOT NULL
+GROUP BY AgeGroup, SEX
+ORDER BY AgeGroup DESC;
+
+
+SELECT count(Vaers_ID) as NumberOfCases,
+	CASE
+		WHEN AGE_YRS &lt; 18 THEN &quot;Young&quot;
+		WHEN (AGE_YRS  &gt;= 18 and AGE_YRS &lt; 40) THEN &quot;Adult&quot;
+		WHEN (AGE_YRS &gt;= 40 and AGE_YRS &lt; 70) THEN &quot;Middle_age&quot;
+		WHEN AGE_YRS &gt; 70 THEN &quot;Old&quot;
+	END AS AgeGroup
+FROM DATA
+WHERE SEX &lt;&gt; &quot;U&quot; AND AGE_YRS is NOT NULL
+GROUP BY AgeGroup, SEX
+ORDER BY AgeGroup DESC;
+
+SELECT AgeGroup, 
+	max(Case WHEN SEX = &quot;M&quot; THEN NumberOfCases END) As Male,
+	max(Case WHEN SEX = &quot;F&quot; THEN NumberOfCases END) As Female
+FROM (SELECT count(Vaers_ID) as NumberOfCases, SEX,
+	CASE
+		WHEN AGE_YRS &lt; 18 THEN &quot;Young&quot;
+		WHEN (AGE_YRS  &gt;= 18 and AGE_YRS &lt; 40) THEN &quot;Adult&quot;
+		WHEN (AGE_YRS &gt;= 40 and AGE_YRS &lt; 70) THEN &quot;Middle_age&quot;
+		WHEN AGE_YRS &gt; 70 THEN &quot;Old&quot;
+	END AS AgeGroup
+FROM DATA
+WHERE SEX &lt;&gt; &quot;U&quot; AND AGE_YRS is NOT NULL
+GROUP BY AgeGroup, SEX
+ORDER BY AgeGroup DESC)
+GROUP BY AgeGroup;
+-- Gender Correlation
+--CREATE VIEW GenderCorrelation As
+SELECT AgeGroup, Male, Female, (Male + Female) as Total 
+FROM (SELECT AgeGroup, 
+	max(Case WHEN SEX = &quot;M&quot; THEN NumberOfCases END) As Male,
+	max(Case WHEN SEX = &quot;F&quot; THEN NumberOfCases END) As Female
+FROM (SELECT count(Vaers_ID) as NumberOfCases, SEX,
+	CASE
+		WHEN AGE_YRS &lt; 18 THEN &quot;Young&quot;
+		WHEN (AGE_YRS  &gt;= 18 and AGE_YRS &lt; 40) THEN &quot;Adult&quot;
+		WHEN (AGE_YRS &gt;= 40 and AGE_YRS &lt; 70) THEN &quot;Middle_age&quot;
+		WHEN AGE_YRS &gt; 70 THEN &quot;Old&quot;
+	END AS AgeGroup
+FROM DATA
+WHERE SEX &lt;&gt; &quot;U&quot; AND AGE_YRS is NOT NULL
+GROUP BY AgeGroup, SEX
+ORDER BY AgeGroup DESC)
+GROUP BY AgeGroup)
+</sql><current_tab id="3"/></tab_sql></sqlb_project>
